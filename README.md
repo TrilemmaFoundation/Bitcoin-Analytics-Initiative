@@ -1,4 +1,4 @@
-# Bitcoin Analytics Initiative
+# Bitcoin Analytics Initiative <img src="assets/trilemma_foundation_white.png" alt="Bitcoin Analytics Initiative" width="200" align="right">
 
 Welcome to the open source commons for the [Hypertrial.ai](https://www.hypertrial.ai/) [Stacking Sats](https://www.stackingsats.org/) microproduct. Maintained by Trilemma Foundation, this repository is the gateway to making contributions to the product.
 
