@@ -35,7 +35,7 @@ Welcome to the open source commons for the [Hypertrial.ai](https://www.hypertria
 
 ---
 
-## 🧩 Problem Statement <img src="assets/Stacking Sats Logo.png" alt="Problem Statement" width="200" align="right">
+## 🧩 Problem Statement <img src="assets/Stacking Sats Logo.png" alt="Problem Statement" width="100" align="right">
 
 
 As individuals, institutions, and even nations race to accumulate a mathematically scarce asset, we ask: **How can we do better than dollar-cost averaging (DCA)?** If Bitcoin is good, we want more of it. And yes — there are systematic, data-driven strategies that consistently yield more Bitcoin per dollar than DCA.  
